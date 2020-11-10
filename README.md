@@ -10,6 +10,8 @@
     * The processor has a continuous spectrum of speeds.
 * Pre-emption of jobs is allowed, i.e. the processing of a job may be stopped and resumed later.
 
-## Algorithm pseudocode
+## Algorithm Pseudocode
 
 ![Alt text](https://github.com/snat1505027/PC-Job-Scheduling/blob/master/yds.PNG?raw=true "Title")
+
+## Output Graph
