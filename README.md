@@ -1,6 +1,6 @@
 # PC Job Scheduling Algorithm: YDS
 
-## This is an implementation of offline YDS algorithm with C++ from scratch.
+## This is an implementation of offline YDS algorithm with C++ from scratch
 
 * YDS is a scheduling algorithm for dynamic speed scaling processors which minimizes the total energy consumption.
 * It was named after and developed by Frances Yao, Alan Demers and Scott Shenker.
