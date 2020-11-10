@@ -15,3 +15,5 @@
 ![Alt text](https://github.com/snat1505027/PC-Job-Scheduling/blob/master/yds.PNG?raw=true "Title")
 
 ## Output Graph
+
+![Alt text](https://github.com/snat1505027/PC-Job-Scheduling/blob/master/YDS_bar.PNG?raw=true "Title")
